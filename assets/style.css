@@ -1,0 +1,24 @@
+
+
+
+                                    /* Sedan Section */
+
+#sedan {
+    background-color: hsl(31, 77%, 52%);
+    border: black, 1px, solid;
+
+}
+
+
+                                    /* Suvs Section */
+#suv {
+    background-color: hsl(184, 100%, 22%);
+}
+
+
+
+
+                                    /* Luxury Section */
+#luxury {
+    background-color: hsl(179,100% 13%);
+}
